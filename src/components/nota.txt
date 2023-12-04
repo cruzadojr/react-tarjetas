@@ -1,0 +1,9 @@
+npm i prop-types   (para validar los props)
+
+tambien instale un paquete para animar css y bootstrap (lo encontramos en node
+modules)
+
+para hacer correr el proyecto npm start
+extension ES7 React/Redux/GraphQL/React-Native snippets (para importar 
+atributos y funciones de react rapidamente en el código)
+

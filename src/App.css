@@ -1,0 +1,11 @@
+.App {
+    background: lightseagreen;
+    height: 100vh;
+
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg,
+    rgba(4,122,195,1) 0%, 
+    rgba(4,112,194,1) 18%, 
+    rgba(4,101,192,1) 60%, 
+    rgba(0,170,255,1) 95%);
+}
